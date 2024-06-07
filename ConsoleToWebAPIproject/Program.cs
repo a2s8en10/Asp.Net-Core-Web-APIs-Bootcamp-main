@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Hosting;
+using System;
 
 namespace ConsoleToWebAPIproject
 {
@@ -6,7 +8,16 @@ namespace ConsoleToWebAPIproject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CreatehostBuilder().Build().Run();
+        }
+        public static IHostBuilder CreatehostBuilder()
+        {
+            return Host.CreateDefaultBuilder()
+        
+            .ConfigureWebHostDefaults(WebHost =>
+            {
+                WebHost.UseStartup<Startup>();
+            });
         }
     }
 }
