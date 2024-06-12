@@ -28,24 +28,24 @@ namespace ConsoleToWebAPIproject
             //});
 
             // use and next middleware 
-            app.Use(async (context, next) =>
-            {
-                await context.Response.WriteAsync("hello form use 1-1 and next \n");
-                await next();
-                await context.Response.WriteAsync("hello form use 1-2 and next \n");
-            });
+            //app.Use(async (context, next) =>
+            //{
+            //    await context.Response.WriteAsync("hello form use 1-1 and next \n");
+            //    await next();
+            //    await context.Response.WriteAsync("hello form use 1-2 and next \n");
+            //});
 
-            app.Use(async (context, next) =>
-            {
-                await context.Response.WriteAsync("hello form use 2-1 and next \n");
-                await next();
-                await context.Response.WriteAsync("hello form use 2-2 and next \n");
-            });
+            //app.Use(async (context, next) =>
+            //{
+            //    await context.Response.WriteAsync("hello form use 2-1 and next \n");
+            //    await next();
+            //    await context.Response.WriteAsync("hello form use 2-2 and next \n");
+            //});
 
-            app.UseMiddleware<CustomMiddleware>();
+            //app.UseMiddleware<CustomMiddleware>();
 
             // map middleware (URL/anurag)
-            app.Map("/anurag",code);
+            //app.Map("/anurag",code);
 
             // run middleware 
             //app.Run(async context =>
@@ -68,6 +68,7 @@ namespace ConsoleToWebAPIproject
                 //});
          }
 
+        // map middleware
         private void code(IApplicationBuilder app)
         {
             app.Use(async (context, next) =>
