@@ -8,12 +8,16 @@ namespace ConsoleToWebAPIproject.Controller
     public class ValuesController : ControllerBase
     {
         [Route("api/get-all")]
+        [Route("api/all")]
+        [Route("api/getall")]
         public string Getall ()
         {
             return "Hello get-all";
         }
 
         [Route("api/get-all-Author")]
+        [Route("get-all-Author")]
+        [Route("api/get-Author")]
         public string GetAllAuthor()
         {
             return "Hello get-all-Author";
@@ -35,6 +39,7 @@ namespace ConsoleToWebAPIproject.Controller
         {
             return "Book name : " + name + " | " + "id : " + id + " | " + "Author Id : " + Authorid + " | " + "Rating : " + rating + " | " + "Price :" + price;
         }
+
 
 
     }
