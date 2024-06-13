@@ -56,7 +56,8 @@ namespace ConsoleToWebAPIproject
             app.UseRouting();
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers(); 
+                endpoints.MapControllers();
+                
             });
 
                 //app.UseEndpoints(endpoints =>

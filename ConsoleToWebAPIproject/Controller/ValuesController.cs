@@ -9,15 +9,17 @@ namespace ConsoleToWebAPIproject.Controller
     {
         [Route("api/get-all")]
         [Route("api/all")]
-        [Route("api/getall")]
+        [Route("getall")]
+        [Route("[controller]/[action]")]     // controller = Values,action = Getall
         public string Getall ()
         {
             return "Hello get-all";
         }
 
         [Route("api/get-all-Author")]
-        [Route("get-all-Author")]
+        [Route("getallAuthor")]
         [Route("api/get-Author")]
+        [Route("[controller]/[action]")]
         public string GetAllAuthor()
         {
             return "Hello get-all-Author";
