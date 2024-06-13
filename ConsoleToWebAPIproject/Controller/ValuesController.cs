@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace ConsoleToWebAPIproject.Controller
 {
@@ -29,6 +30,12 @@ namespace ConsoleToWebAPIproject.Controller
         {
             return "Hello Get By id " + id + " " + "Author Id is " + authorid;
         }
+        [Route("Search")]
+        public string SearchBook(string name , int id , string Authorid , float rating , float price) 
+        {
+            return "Book name : " + name + " | " + "id : " + id + " | " + "Author Id : " + Authorid + " | " + "Rating : " + rating + " | " + "Price :" + price;
+        }
+
 
     }
 }
