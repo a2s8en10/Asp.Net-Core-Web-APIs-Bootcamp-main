@@ -5,18 +5,20 @@ using System;
 namespace ConsoleToWebAPIproject.Controller
 {
     [ApiController]
+    [Route("[controller]/[action]")]    // its a base route 
     public class ValuesController : ControllerBase
     {
-        [Route("api/get-all")]
-        [Route("api/all")]
-        [Route("getall")]
-        [Route("[controller]/[action]")]     // controller = Values,action = Getall
+       /* [Route("[controller]/[action]")] */   // this is the token replacement
+        //[Route("api/get-all")]  // multiple URLs for same resource but not a single URLs for multiple resource
+        //[Route("api/all")]
+        //[Route("getall")]
+        //[Route("[controller]/[action]")]     // controller = Values,action = Getall
         public string Getall ()
         {
             return "Hello get-all";
         }
 
-        [Route("api/get-all-Author")]
+        [Route("api/get-all-Author")]   // multiple URLs for same resource but not a single URLs for multiple resource
         [Route("getallAuthor")]
         [Route("api/get-Author")]
         [Route("[controller]/[action]")]
