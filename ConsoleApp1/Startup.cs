@@ -11,6 +11,7 @@ namespace ConsoleApp1
         public void configureservice(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddMvc();
         }
         public void configure(IApplicationBuilder app , IWebHostEnvironment env)
         {
