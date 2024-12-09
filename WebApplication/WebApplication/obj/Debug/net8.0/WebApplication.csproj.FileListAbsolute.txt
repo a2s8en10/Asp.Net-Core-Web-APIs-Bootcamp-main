@@ -1,0 +1,8 @@
+F:\GitHub Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfoInputs.cache
+F:\GitHub Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfo.cs
+F:\GitHub Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.csproj.CoreCompileInputs.cache
+F:\GitHub Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+F:\GitHub Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cache
+F:\GitHub Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cs
+F:\GitHub Hosting\Asp.Net-Core-Web-APIs-Bootcamp-main\WebApplication\WebApplication\obj\Debug\net8.0\WebApplication.sourcelink.json
