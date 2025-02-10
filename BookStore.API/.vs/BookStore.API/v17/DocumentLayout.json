@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\",
+  "WorkspaceRootPath": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|f:\\github hosting\\asp.net-core-web-apis-bootcamp-main\\bookstore.api\\bookstore.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|f:\\github hosting\\asp.net-core-web-apis-bootcamp-main\\asp.net-core-web-apis-bootcamp-main\\bookstore.api\\bookstore.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|f:\\github hosting\\asp.net-core-web-apis-bootcamp-main\\bookstore.api\\bookstore.api\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|f:\\github hosting\\asp.net-core-web-apis-bootcamp-main\\asp.net-core-web-apis-bootcamp-main\\bookstore.api\\bookstore.api\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|f:\\github hosting\\asp.net-core-web-apis-bootcamp-main\\bookstore.api\\bookstore.api\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|f:\\github hosting\\asp.net-core-web-apis-bootcamp-main\\asp.net-core-web-apis-bootcamp-main\\bookstore.api\\bookstore.api\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|f:\\github hosting\\asp.net-core-web-apis-bootcamp-main\\bookstore.api\\bookstore.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|f:\\github hosting\\asp.net-core-web-apis-bootcamp-main\\asp.net-core-web-apis-bootcamp-main\\bookstore.api\\bookstore.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Startup.cs",
-              "DocumentMoniker": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Startup.cs",
+              "DocumentMoniker": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Startup.cs",
               "RelativeDocumentMoniker": "BookStore.API\\Startup.cs",
-              "ToolTip": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Startup.cs",
+              "ToolTip": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Startup.cs",
               "RelativeToolTip": "BookStore.API\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAA//////8gwBgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T12:29:51.985Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IBookRepository.cs",
-              "DocumentMoniker": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Repository\\IBookRepository.cs",
+              "DocumentMoniker": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Repository\\IBookRepository.cs",
               "RelativeDocumentMoniker": "BookStore.API\\Repository\\IBookRepository.cs",
-              "ToolTip": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Repository\\IBookRepository.cs",
+              "ToolTip": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Repository\\IBookRepository.cs",
               "RelativeToolTip": "BookStore.API\\Repository\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BookRepository.cs",
-              "DocumentMoniker": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Repository\\BookRepository.cs",
+              "DocumentMoniker": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Repository\\BookRepository.cs",
               "RelativeDocumentMoniker": "BookStore.API\\Repository\\BookRepository.cs",
-              "ToolTip": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Repository\\BookRepository.cs",
+              "ToolTip": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Repository\\BookRepository.cs",
               "RelativeToolTip": "BookStore.API\\Repository\\BookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,9 +71,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "BookStore.API\\Controllers\\BooksController.cs",
-              "ToolTip": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Controllers\\BooksController.cs",
+              "ToolTip": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Controllers\\BooksController.cs",
               "RelativeToolTip": "BookStore.API\\Controllers\\BooksController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
