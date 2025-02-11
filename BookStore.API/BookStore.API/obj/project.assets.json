@@ -6245,11 +6245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\BookStore.API.csproj",
+      "projectUniqueName": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\BookStore.API.csproj",
       "projectName": "BookStore.API",
-      "projectPath": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\BookStore.API.csproj",
+      "projectPath": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\BookStore.API.csproj",
       "packagesPath": "C:\\Users\\Anurag\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\obj\\",
+      "outputPath": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anurag\\AppData\\Roaming\\NuGet\\NuGet.Config",
