@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj": {}
+    "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj": {}
   },
   "projects": {
-    "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj": {
+    "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
+        "projectUniqueName": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
         "projectName": "ConsoleToWebAPI",
-        "projectPath": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
-        "packagesPath": "C:\\Users\\Anurag\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConsoleToWebAPI\\ConsoleToWebAPI\\obj\\",
+        "projectPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
+        "packagesPath": "C:\\Users\\anusa\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConsoleToWebAPI\\ConsoleToWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Anurag\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\anusa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +38,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net5.0": {
@@ -64,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

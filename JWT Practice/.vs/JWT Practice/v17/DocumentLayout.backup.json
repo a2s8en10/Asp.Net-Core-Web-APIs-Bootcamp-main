@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\JWT Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D8037C-4393-491D-A5A8-7FC1FE0FB761}|JWT Practice\\JWT Practice.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\jwt practice\\jwt practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D8037C-4393-491D-A5A8-7FC1FE0FB761}|JWT Practice\\JWT Practice.csproj|solutionrelative:jwt practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D8037C-4393-491D-A5A8-7FC1FE0FB761}|JWT Practice\\JWT Practice.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\jwt practice\\jwt practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97D8037C-4393-491D-A5A8-7FC1FE0FB761}|JWT Practice\\JWT Practice.csproj|solutionrelative:jwt practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D8037C-4393-491D-A5A8-7FC1FE0FB761}|JWT Practice\\JWT Practice.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\jwt practice\\jwt practice\\model\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D8037C-4393-491D-A5A8-7FC1FE0FB761}|JWT Practice\\JWT Practice.csproj|solutionrelative:jwt practice\\model\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\JWT Practice\\JWT Practice\\Model\\SignInModel.cs",
+              "RelativeDocumentMoniker": "JWT Practice\\Model\\SignInModel.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\JWT Practice\\JWT Practice\\Model\\SignInModel.cs",
+              "RelativeToolTip": "JWT Practice\\Model\\SignInModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:48:44.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\JWT Practice\\JWT Practice\\Program.cs",
+              "RelativeDocumentMoniker": "JWT Practice\\Program.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\JWT Practice\\JWT Practice\\Program.cs",
+              "RelativeToolTip": "JWT Practice\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:18:36.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\JWT Practice\\JWT Practice\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT Practice\\appsettings.json",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\JWT Practice\\JWT Practice\\appsettings.json",
+              "RelativeToolTip": "JWT Practice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T07:15:12.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

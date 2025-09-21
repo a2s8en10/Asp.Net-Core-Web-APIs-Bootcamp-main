@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\",
+  "WorkspaceRootPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|f:\\github hosting\\asp.net-core-web-apis-bootcamp-main\\bookstore.api\\bookstore.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\bookstore.api\\bookstore.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93E28794-0D3B-4980-8573-0C4FC45494E9}|BookStore.API\\BookStore.API.csproj|solutionrelative:bookstore.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Startup.cs",
-              "DocumentMoniker": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Startup.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Startup.cs",
               "RelativeDocumentMoniker": "BookStore.API\\Startup.cs",
-              "ToolTip": "F:\\GitHub Hosting\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Startup.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\BookStore.API\\BookStore.API\\Startup.cs",
               "RelativeToolTip": "BookStore.API\\Startup.cs",
               "ViewState": "AgIAABsAAACAPzMzMzMdwCoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

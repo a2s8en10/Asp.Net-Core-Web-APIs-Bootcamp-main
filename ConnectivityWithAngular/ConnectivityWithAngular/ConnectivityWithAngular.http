@@ -1,0 +1,6 @@
+@ConnectivityWithAngular_HostAddress = http://localhost:5145
+
+GET {{ConnectivityWithAngular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

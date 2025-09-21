@@ -1,0 +1,7 @@
+E:\Github\Asp.Net-Core-Web-APIs-Bootcamp-main\longest consecutive sequence\longest consecutive sequence\bin\Debug\longest consecutive sequence.exe.config
+E:\Github\Asp.Net-Core-Web-APIs-Bootcamp-main\longest consecutive sequence\longest consecutive sequence\bin\Debug\longest consecutive sequence.exe
+E:\Github\Asp.Net-Core-Web-APIs-Bootcamp-main\longest consecutive sequence\longest consecutive sequence\bin\Debug\longest consecutive sequence.pdb
+E:\Github\Asp.Net-Core-Web-APIs-Bootcamp-main\longest consecutive sequence\longest consecutive sequence\obj\Debug\longest consecutive sequence.csproj.AssemblyReference.cache
+E:\Github\Asp.Net-Core-Web-APIs-Bootcamp-main\longest consecutive sequence\longest consecutive sequence\obj\Debug\longest consecutive sequence.csproj.CoreCompileInputs.cache
+E:\Github\Asp.Net-Core-Web-APIs-Bootcamp-main\longest consecutive sequence\longest consecutive sequence\obj\Debug\longest consecutive sequence.exe
+E:\Github\Asp.Net-Core-Web-APIs-Bootcamp-main\longest consecutive sequence\longest consecutive sequence\obj\Debug\longest consecutive sequence.pdb

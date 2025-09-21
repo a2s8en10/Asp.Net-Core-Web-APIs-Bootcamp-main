@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\API_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9BEABD-E49C-4F4B-90A8-6205D171E9CC}|API_CRUD\\API_CRUD.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\api_crud\\api_crud\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9BEABD-E49C-4F4B-90A8-6205D171E9CC}|API_CRUD\\API_CRUD.csproj|solutionrelative:api_crud\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9BEABD-E49C-4F4B-90A8-6205D171E9CC}|API_CRUD\\API_CRUD.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\api_crud\\api_crud\\repository\\apirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9BEABD-E49C-4F4B-90A8-6205D171E9CC}|API_CRUD\\API_CRUD.csproj|solutionrelative:api_crud\\repository\\apirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9BEABD-E49C-4F4B-90A8-6205D171E9CC}|API_CRUD\\API_CRUD.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\api_crud\\api_crud\\repository\\iapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9BEABD-E49C-4F4B-90A8-6205D171E9CC}|API_CRUD\\API_CRUD.csproj|solutionrelative:api_crud\\repository\\iapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\API_CRUD\\API_CRUD\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "API_CRUD\\Controllers\\ApiController.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\API_CRUD\\API_CRUD\\Controllers\\ApiController.cs*",
+              "RelativeToolTip": "API_CRUD\\Controllers\\ApiController.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:51:06.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IApiRepository.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\API_CRUD\\API_CRUD\\Repository\\IApiRepository.cs",
+              "RelativeDocumentMoniker": "API_CRUD\\Repository\\IApiRepository.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\API_CRUD\\API_CRUD\\Repository\\IApiRepository.cs",
+              "RelativeToolTip": "API_CRUD\\Repository\\IApiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:50:55.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiRepository.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\API_CRUD\\API_CRUD\\Repository\\ApiRepository.cs",
+              "RelativeDocumentMoniker": "API_CRUD\\Repository\\ApiRepository.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\API_CRUD\\API_CRUD\\Repository\\ApiRepository.cs",
+              "RelativeToolTip": "API_CRUD\\Repository\\ApiRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:47:37.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

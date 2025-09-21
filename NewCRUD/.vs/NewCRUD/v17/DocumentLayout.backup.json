@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\NewCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5399A0BE-C5A2-4D0C-8A00-2035B0B5327C}|NewCRUD\\NewCRUD.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\newcrud\\newcrud\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399A0BE-C5A2-4D0C-8A00-2035B0B5327C}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399A0BE-C5A2-4D0C-8A00-2035B0B5327C}|NewCRUD\\NewCRUD.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\newcrud\\newcrud\\repository\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399A0BE-C5A2-4D0C-8A00-2035B0B5327C}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\repository\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399A0BE-C5A2-4D0C-8A00-2035B0B5327C}|NewCRUD\\NewCRUD.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\newcrud\\newcrud\\repository\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399A0BE-C5A2-4D0C-8A00-2035B0B5327C}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\repository\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399A0BE-C5A2-4D0C-8A00-2035B0B5327C}|NewCRUD\\NewCRUD.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\newcrud\\newcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399A0BE-C5A2-4D0C-8A00-2035B0B5327C}|NewCRUD\\NewCRUD.csproj|solutionrelative:newcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\NewCRUD\\NewCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\Program.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\NewCRUD\\NewCRUD\\Program.cs",
+              "RelativeToolTip": "NewCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T09:32:34.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\NewCRUD\\NewCRUD\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\Controllers\\PlayerController.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\NewCRUD\\NewCRUD\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "NewCRUD\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:50:52.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPlayerRepository.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\NewCRUD\\NewCRUD\\Repository\\IPlayerRepository.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\Repository\\IPlayerRepository.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\NewCRUD\\NewCRUD\\Repository\\IPlayerRepository.cs",
+              "RelativeToolTip": "NewCRUD\\Repository\\IPlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:33:18.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\NewCRUD\\NewCRUD\\Repository\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "NewCRUD\\Repository\\PlayerRepository.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\NewCRUD\\NewCRUD\\Repository\\PlayerRepository.cs",
+              "RelativeToolTip": "NewCRUD\\Repository\\PlayerRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:32:54.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

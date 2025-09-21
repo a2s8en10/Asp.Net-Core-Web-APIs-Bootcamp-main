@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dapper in ASP.NET CORE.props" />
+</Project>

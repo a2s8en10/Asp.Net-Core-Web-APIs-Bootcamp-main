@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7459011B-DD4B-4B8C-9A83-436359AA8AD8}|DapperPractice\\DapperPractice.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\dapperpractice\\dapperpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7459011B-DD4B-4B8C-9A83-436359AA8AD8}|DapperPractice\\DapperPractice.csproj|solutionrelative:dapperpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7459011B-DD4B-4B8C-9A83-436359AA8AD8}|DapperPractice\\DapperPractice.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\dapperpractice\\dapperpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7459011B-DD4B-4B8C-9A83-436359AA8AD8}|DapperPractice\\DapperPractice.csproj|solutionrelative:dapperpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 214,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperPractice\\DapperPractice\\Program.cs",
+              "RelativeDocumentMoniker": "DapperPractice\\Program.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperPractice\\DapperPractice\\Program.cs",
+              "RelativeToolTip": "DapperPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:51:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperPractice\\DapperPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "DapperPractice\\appsettings.json",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperPractice\\DapperPractice\\appsettings.json",
+              "RelativeToolTip": "DapperPractice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T13:46:31.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

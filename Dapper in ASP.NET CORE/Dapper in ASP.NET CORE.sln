@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper in ASP.NET CORE", "Dapper in ASP.NET CORE\Dapper in ASP.NET CORE.csproj", "{C2D85703-D89E-440B-9A50-9F6AF95AAEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D85703-D89E-440B-9A50-9F6AF95AAEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D85703-D89E-440B-9A50-9F6AF95AAEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D85703-D89E-440B-9A50-9F6AF95AAEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D85703-D89E-440B-9A50-9F6AF95AAEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2EAA5F8-87E3-4F26-A879-20479DE5343A}
+	EndGlobalSection
+EndGlobal

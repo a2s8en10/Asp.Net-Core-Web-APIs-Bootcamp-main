@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "4tUKNIshWXI=",
+  "success": false,
+  "projectFilePath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConnectivityWithAngular\\ConnectivityWithAngular\\ConnectivityWithAngular.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "projectPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConnectivityWithAngular\\ConnectivityWithAngular\\ConnectivityWithAngular.csproj",
+      "filePath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConnectivityWithAngular\\ConnectivityWithAngular\\ConnectivityWithAngular.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "projectPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConnectivityWithAngular\\ConnectivityWithAngular\\ConnectivityWithAngular.csproj",
+      "filePath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConnectivityWithAngular\\ConnectivityWithAngular\\ConnectivityWithAngular.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "projectPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConnectivityWithAngular\\ConnectivityWithAngular\\ConnectivityWithAngular.csproj",
+      "filePath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConnectivityWithAngular\\ConnectivityWithAngular\\ConnectivityWithAngular.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "projectPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConnectivityWithAngular\\ConnectivityWithAngular\\ConnectivityWithAngular.csproj",
+      "filePath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\ConnectivityWithAngular\\ConnectivityWithAngular\\ConnectivityWithAngular.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": []
+    }
+  ]
+}

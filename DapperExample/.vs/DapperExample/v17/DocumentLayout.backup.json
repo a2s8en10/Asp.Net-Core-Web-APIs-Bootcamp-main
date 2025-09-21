@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\dapperexample\\dapperexample\\controllers\\customercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|solutionrelative:dapperexample\\controllers\\customercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\dapperexample\\dapperexample\\views\\customercontroller1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|solutionrelative:dapperexample\\views\\customercontroller1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\dapperexample\\dapperexample\\views\\customercontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|solutionrelative:dapperexample\\views\\customercontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\dapperexample\\dapperexample\\views\\customercontroller1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|solutionrelative:dapperexample\\views\\customercontroller1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\dapperexample\\dapperexample\\views\\customercontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|solutionrelative:dapperexample\\views\\customercontroller1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\dapperexample\\dapperexample\\views\\customercontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD406B6B-8A72-4C9C-80A6-5AE99278987C}|DapperExample\\DapperExample.csproj|solutionrelative:dapperexample\\views\\customercontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 214,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Views\\CustomerController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "DapperExample\\Views\\CustomerController1\\Index.cshtml",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Views\\CustomerController1\\Index.cshtml",
+              "RelativeToolTip": "DapperExample\\Views\\CustomerController1\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T14:35:50.276Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Views\\CustomerController1\\Details.cshtml",
+              "RelativeDocumentMoniker": "DapperExample\\Views\\CustomerController1\\Details.cshtml",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Views\\CustomerController1\\Details.cshtml",
+              "RelativeToolTip": "DapperExample\\Views\\CustomerController1\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T14:36:43.309Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Views\\CustomerController1\\Create.cshtml",
+              "RelativeDocumentMoniker": "DapperExample\\Views\\CustomerController1\\Create.cshtml",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Views\\CustomerController1\\Create.cshtml",
+              "RelativeToolTip": "DapperExample\\Views\\CustomerController1\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T14:37:17.262Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Views\\CustomerController1\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DapperExample\\Views\\CustomerController1\\Edit.cshtml",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Views\\CustomerController1\\Edit.cshtml",
+              "RelativeToolTip": "DapperExample\\Views\\CustomerController1\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T14:37:55.572Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Views\\CustomerController1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DapperExample\\Views\\CustomerController1\\Delete.cshtml",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Views\\CustomerController1\\Delete.cshtml",
+              "RelativeToolTip": "DapperExample\\Views\\CustomerController1\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T14:38:06.273Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController1.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Controllers\\CustomerController1.cs",
+              "RelativeDocumentMoniker": "DapperExample\\Controllers\\CustomerController1.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\DapperExample\\DapperExample\\Controllers\\CustomerController1.cs",
+              "RelativeToolTip": "DapperExample\\Controllers\\CustomerController1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:38:32.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

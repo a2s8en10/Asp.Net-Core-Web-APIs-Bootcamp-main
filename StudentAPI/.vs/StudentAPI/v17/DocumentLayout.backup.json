@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\StudentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{022065DA-DDA5-4F8B-B59E-DE3EDE6CD08F}|StudentAPI\\StudentAPI.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\studentapi\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022065DA-DDA5-4F8B-B59E-DE3EDE6CD08F}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022065DA-DDA5-4F8B-B59E-DE3EDE6CD08F}|StudentAPI\\StudentAPI.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\studentapi\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{022065DA-DDA5-4F8B-B59E-DE3EDE6CD08F}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022065DA-DDA5-4F8B-B59E-DE3EDE6CD08F}|StudentAPI\\StudentAPI.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\studentapi\\studentapi\\controllers\\studentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022065DA-DDA5-4F8B-B59E-DE3EDE6CD08F}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\studentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDetailsController.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\StudentAPI\\StudentAPI\\Controllers\\StudentDetailsController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\StudentDetailsController.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\StudentAPI\\StudentAPI\\Controllers\\StudentDetailsController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\StudentDetailsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:27:32.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\StudentAPI\\StudentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Program.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\StudentAPI\\StudentAPI\\Program.cs",
+              "RelativeToolTip": "StudentAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:18:59.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\StudentAPI\\StudentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAPI\\appsettings.json",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\StudentAPI\\StudentAPI\\appsettings.json",
+              "RelativeToolTip": "StudentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T09:15:20.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
