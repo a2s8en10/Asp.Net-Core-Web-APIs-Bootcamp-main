@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\OldBookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6AAA5B-E462-4965-AB72-9647FA65ADD4}|OldBookStore\\OldBookStore.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\oldbookstore\\oldbookstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6AAA5B-E462-4965-AB72-9647FA65ADD4}|OldBookStore\\OldBookStore.csproj|solutionrelative:oldbookstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6AAA5B-E462-4965-AB72-9647FA65ADD4}|OldBookStore\\OldBookStore.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\oldbookstore\\oldbookstore\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6AAA5B-E462-4965-AB72-9647FA65ADD4}|OldBookStore\\OldBookStore.csproj|solutionrelative:oldbookstore\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6AAA5B-E462-4965-AB72-9647FA65ADD4}|OldBookStore\\OldBookStore.csproj|e:\\github\\asp.net-core-web-apis-bootcamp-main\\oldbookstore\\oldbookstore\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6AAA5B-E462-4965-AB72-9647FA65ADD4}|OldBookStore\\OldBookStore.csproj|solutionrelative:oldbookstore\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\OldBookStore\\OldBookStore\\Model\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "OldBookStore\\Model\\SignUpModel.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\OldBookStore\\OldBookStore\\Model\\SignUpModel.cs",
+              "RelativeToolTip": "OldBookStore\\Model\\SignUpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:23:05.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\OldBookStore\\OldBookStore\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "OldBookStore\\Repository\\AccountRepository.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\OldBookStore\\OldBookStore\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "OldBookStore\\Repository\\AccountRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAjwDUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:18:23.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\OldBookStore\\OldBookStore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OldBookStore\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Github\\Asp.Net-Core-Web-APIs-Bootcamp-main\\OldBookStore\\OldBookStore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "OldBookStore\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:04:54.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
